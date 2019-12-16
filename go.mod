@@ -1,4 +1,4 @@
-module taskpool
+module github.com/hazeglide/taskpool
 
 go 1.13
 
